@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    z-index: 1;
+    color:aquamarine;
+}
+body {
+    background-image: url(https://th.bing.com/th/id/OIP.GSk_DRAyL-Ayvz7_eUUNUwAAAA?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+img {
+    width: 400px; /* Set the desired width */
+    height: auto; /* Maintain aspect ratio */
+    align-content: center;
+  }
+  p {
+    text-align: right;
+    font-size: 100px;
+
+  }
